@@ -69,13 +69,13 @@ for name, count in candidates.items():
        
        #Check results - print(name, ((count/total_votes)*100), count)
        
-if khan > correy and li and otooley:
+        if khan > correy and li and otooley:
        
-   winning_candidate = "Khan"
-   runner_up = "Correy"
-   third_up = "Li"
-   fourth_up = "O'Tooley"
-   # Check results - print(winning_candidate)
+            winning_candidate = "Khan"
+            runner_up = "Correy"
+            third_up = "Li"
+            fourth_up = "O'Tooley"
+            # Check results - print(winning_candidate)
 
 
 # In[ ]:
